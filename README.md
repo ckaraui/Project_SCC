@@ -1,1 +1,1 @@
-# mini_project_SCC
+Computing Strongly Connected Components in oriented graph
